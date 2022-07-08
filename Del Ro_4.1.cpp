@@ -9,7 +9,7 @@ struct record
     int score[5];
 };
 
-struct record stud_rec[5];
+struct record stud_rec[5]; 
 int i, j, q;
 float ave, std_ave, std_ave2, std_ave3; // Variables for getting average
 
